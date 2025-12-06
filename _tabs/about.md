@@ -7,6 +7,8 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
+## Who Am I?
+
 - 박도원(DOWON PARK)
 - Void, pdw0412
-- Korea Digital Media High School(aka KDMHS) 23th
+- Korea Digital Media High School(a.k.a KDMHS) 23rd
